@@ -1,0 +1,15 @@
+{
+  "name": "momoa-node16",
+  "version": "1.0.0",
+  "exports": "./index.js",
+  "author": "Richard Strand",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  },
+  "dependencies": {
+    "@humanwhocodes/momoa": "^3.0.0"
+  }
+}
